@@ -1,4 +1,4 @@
-<h1> JunBal's Git
+<h1> JunBal's Git </h1>
 
 <hr/>
 
