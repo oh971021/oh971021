@@ -2,11 +2,10 @@
 
 <hr/>
 
-- 👋 Hi, I’m @oh971021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jun_Bal
+- 👀 I’m interested in Blockchain & Metabus
+- 🌱 I’m currently learning Golang, Python, Hyperledger
+- 📫 How to reach me " oh971021@gmail.com "
 
 <!---
 oh971021/oh971021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
