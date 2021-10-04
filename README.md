@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Jun_Bal
 - 👀 I’m interested in Blockchain & Metabus
-- 🌱 I’m currently learning Golang, Python, Hyperledger
+- 🌱 I’m currently learning Golang, Python, Hyperledger, Java, JavaScript, HTML, CSS
 - 📫 How to reach me " oh971021@gmail.com "
 
 <!---
