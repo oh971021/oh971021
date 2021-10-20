@@ -14,6 +14,10 @@ I love the sea. Mostly inspired by there 🌊. So i like to swimming and surf &#
 
 <br>
 
+<hr>
+
+<h3>🎞 Stats</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh971021&show_icons=true&theme=flag-india)
 
 <!---
