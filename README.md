@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/JunBal-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>  <img src="https://img.shields.io/badge/oh971021@gmail.com-FF9E0F?style=flat-square&logo=Gmail&logoColor=white"/>
 
-👋 Hi there! I’m JunBal who <b> Web-app developer </b> <br>
+👋 Hi there! I’m JunBal who <b>Web-app developer</b> <br>
 I wanna create services that make people happy. 😋 <br><br>
 Besides web development, I am also interested in blockchain and metaverse technologies. 🛸 <br>
 I love the sea. Mostly inspired by there 🌊. So i like to swimming and surf &#127940;
