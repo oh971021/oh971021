@@ -1,3 +1,7 @@
+<div align=center> 
+  
+  <br>
+  
 <img src="https://img.shields.io/badge/JunBal-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>  <img src="https://img.shields.io/badge/oh971021@gmail.com-FF9E0F?style=flat-square&logo=Gmail&logoColor=white"/>
 
 👋 Hi there! I’m JunBal who <b>Web-app developer</b> <br>
@@ -6,11 +10,19 @@ Besides web development, I am also interested in blockchain and metaverse techno
 I love the sea. Mostly inspired by there 🌊. So i like to swimming and surf &#127940;
 <br><br>
 
+</div>
+  
+<div align=center> 
+  
 <h3>🎞 Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh971021&show_icons=true&theme=flag-india)
 
+</div>
+  
 <br>
+
+<div align=center>
 
 <h3>🖥  Languages & Tool</h3>
 
@@ -18,6 +30,8 @@ I love the sea. Mostly inspired by there 🌊. So i like to swimming and surf &#
 
 <img src="https://img.shields.io/badge/VScode-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=GitHub&logoColor=white"/>
 
+</div>
+  
 <!---
 oh971021/oh971021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
