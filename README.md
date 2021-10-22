@@ -12,11 +12,11 @@ I love the sea. Mostly inspired by there 🌊. So i like to swimming and surf &#
 
 </div>
 
-<div align=left> 
-
 <h3>🎞 Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh971021&show_icons=true&theme=flag-india) <br>
+<div width="80%"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh971021&show_icons=true&theme=flag-india)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oh971021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
@@ -32,11 +32,6 @@ I love the sea. Mostly inspired by there 🌊. So i like to swimming and surf &#
 
 </div>
   
-<div align=right>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oh971021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
   
 <!---
 oh971021/oh971021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
