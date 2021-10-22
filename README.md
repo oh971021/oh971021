@@ -1,4 +1,4 @@
-<div align=center> 
+<div align=left> 
   
   <br>
   
@@ -11,18 +11,19 @@ I love the sea. Mostly inspired by there 🌊. So i like to swimming and surf &#
 <br><br>
 
 </div>
-  
-<div align=center> 
-  
+ 
 <h3>🎞 Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh971021&show_icons=true&theme=flag-india)
+<div align=center> 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh971021&show_icons=true&theme=flag-india) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oh971021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
   
 <br>
 
-<div align=center>
+<div align=right>
 
 <h3>🖥  Languages & Tool</h3>
 
