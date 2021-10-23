@@ -1,9 +1,3 @@
-<style>
-#stack {
-  float:left
-}
-</style>
-
 <div align=left> 
   
   <br>
